@@ -1,0 +1,237 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.header {
+    width: 100%;
+    height: 35px;
+    background-color: black;
+    position: fixed;
+    top: 0;
+}
+
+#headericon i {
+    margin-top: 9px;
+    margin-left: 40px;
+    color: rgb(210, 208, 208)
+}
+
+#headericon i:hover {
+    color: white;
+}
+
+#headerwords a {
+    color: rgb(210, 208, 208);
+    text-decoration: none;
+    margin-left: 32px;
+
+}
+
+#headerwords a:hover {
+    color: white;
+}
+
+#headerwords {
+    margin-left: 40px;
+}
+
+#iconstwo i {
+    margin-left: 25px;
+    color: rgb(210, 208, 208);
+}
+
+#iconstwo i:hover {
+    color: white;
+}
+
+.work {
+    width: 100%;
+    height: 600px;
+    background-color: azure;
+    border: 2px solid black;
+}
+
+#work1 {
+    background-image: url(https://www.apple.com/v/iphone-14-pro/c/images/meta/iphone-14-pro_overview__e414c54gtu6a_og.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 650px;
+    color: white;
+    
+    font-size: 60px;
+    background-color: black;
+    background-position-x: center;
+    background-position-y: 100%;
+
+}
+
+#work2 {
+    background-image: url(https://www.apple.com/newsroom/images/product/iphone/geo/Apple-iPhone-14-iPhone-14-Plus-hero-220907-geo.jpg.landing-big_2x.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 800px;
+    width: 90%;
+    background-color: rgb(255, 255, 255);
+    background-position-x: center;
+    background-position-y: 90%;
+    border: none;
+}
+
+#work3 {
+    background-image: url(https://www.apple.com/uk/apple-watch-series-8/images/meta/gps-lte__de35dernyje6_og.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 880px;
+    background-color: black;
+    background-position-y: 100%;
+    border: none;
+}
+
+#work4 {
+    width: 50%;
+    margin:10px;
+    height: 580px;
+    float:left;
+    background-image: url(https://s.yimg.com/ny/api/res/1.2/amjFoxmsAajeCEkRRYMFiQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM4NA--/https://s.yimg.com/os/creatr-uploaded-images/2022-09/757bc950-2ed2-11ed-bcfa-7d344d3eacf7);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: 80%;
+    background-color: rgb(247, 247, 247);
+    border: none;
+}
+
+#work5 {
+    width: 45%;
+    margin:10px 5px;
+    height: 580px;
+    float: right;
+    background-image: url(apple-fitness-plus__ff87kw6tdnu6_og-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: 90%;
+    border: none;
+    background-color: aliceblue;
+}
+
+#work6 {
+    width: 50%;
+    margin:10px;
+    height: 580px;
+    float:left;
+    background-image: url(https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/cny-og-202211?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1670349383295);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: 100%;
+    background-size: 800px;
+    background-color: rgb(188, 17, 35);
+    border:none;
+}
+
+#work7 {
+    margin: 10px;
+    height: 580px;
+    width: 45%;
+    float: right;
+    background-image: url(https://www.apple.com/v/ipad-10.9/b/images/overview/hero/hero__ecv967jz1y82_large.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: 85%;
+    background-size: 350px;
+    background-color: white;
+    border:none;
+}
+
+#work8 {
+    width: 50%;
+    float: left;
+    background-image: url(https://gamersantai.com/wp-content/uploads/2023/01/Apple-Arcade04-1024x575-1.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: 0%;
+    background-size: 1019px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+    background-color: rgb(181, 254, 255);
+    border:none;
+}
+
+#work9 {
+    margin: 0px;
+    width: 45%;
+    float: right;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmSDpgtuAjUBvRkWhitoeEM4jp2pIBX4Neow&usqp=CAU);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: 85%;
+    background-size: 420px;
+    background-color: rgb(250, 250, 250);
+    border: none;
+}
+
+
+#series8{
+    margin-top: 25px;
+}
+
+#secondlast{
+    margin-top: 1820px;
+    width: 100%;
+    height: 500px;
+    /* background-color: rgb(255, 142, 4); */
+    background-image: url(https://lehsoracle.com/wp-content/uploads/2021/12/q215FJ5IJ3fKZNEe1zDaide7qDGUGNRekI5iHvcV-900x506.jpeg) ;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: 80%;
+}
+
+#secondlast button{
+    padding: 10px 15px;
+    border-radius: 25px;
+    background-color: white;
+    margin-right: 620px;
+    margin-top: 426px;
+}
+#secondlast button:hover{
+    background-color: aliceblue;
+}
+
+#last{
+    background-color: rgb(249, 255, 255);
+    margin: 15px 25px;
+    padding: 10px 35px;
+    color: rgb(93, 93, 93);
+    font-size: small;
+    text-align: justify;
+    line-height: 30px;
+}
+#last a{   
+    color: rgb(93, 93, 93);
+    text-decoration: none;
+}
+
+#last ul li{
+    list-style: none;
+}
+
+table{
+    width: 100%;
+}
+
+th{
+   padding-top: 15px;
+}
+
+.five{
+    margin-left: 25px;
+}
+
+#comedy{
+    color: white;
+    margin-left: -580px;
+    font-size: large;
+}
